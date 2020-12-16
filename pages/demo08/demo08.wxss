@@ -1,0 +1,8 @@
+/* pages/demo08/demo08.wxss */
+.p1{
+  width: 100%;
+}.p2{
+  width: 100%;
+}.p3{
+  width: 100%;
+}

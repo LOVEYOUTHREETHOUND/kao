@@ -1,0 +1,62 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/demo01/demo01",
+    "pages/demo02/demo02",
+    "pages/demo03/demo03",
+    "pages/demo04/demo04",
+    "pages/demo05/demo05",
+    "pages/demo06/demo06",
+    "pages/demo07/demo07",
+    "pages/demo08/demo08",
+    "pages/demo09/demo09",
+    "pages/demo10/demo10",
+    "pages/demo11/demo11",
+    "pages/demo12/demo12",
+    "pages/mystudy/mystudy",
+    "pages/accounts/accounts",
+    "pages/other/other",
+    "pages/logs/logs"
+  ],
+  "permission":{ "scope.userLocation":{ "desc":"你的位置信息将用于小程序位置接口的"}},
+  "window": {
+    "backgroundColor": "#31a030",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "心动的讯号",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#666",
+    "selectedColor": "#31a030",
+    "backgroundColor": "#FFF",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "科普",
+        "iconPath":"images/科普教育 1.png",
+        "selectedIconPath": "images/科普教育 2.png"
+      },
+      
+      {
+        "pagePath": "pages/mystudy/mystudy",
+        "text": "地图",
+        "iconPath": "images/地图 1.png",
+        "selectedIconPath": "images/地图2.png"
+      },
+      {
+        "pagePath": "pages/accounts/accounts",
+        "text": "我的",
+        "iconPath": "images/个人 1.png",
+        "selectedIconPath": "images/个人 2.png"
+      }
+    ]
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  },
+  "debug": true,
+  "sitemapLocation": "sitemap.json"
+}

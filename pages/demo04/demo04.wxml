@@ -1,0 +1,37 @@
+<!--pages/demo04/demo04.wxml-->
+<text>1、过量抽烟
+尼古丁会导致冠脉痉挛，如果心脏本身不好，短时间的过量吸烟就会导致：心绞痛、心梗、心律失常、引发猝死。</text>
+<image class="p10" src="https://hiphotos.baidu.com/feed/pic/item/c9fcc3cec3fdfc0321f5d989de3f8794a4c22675.jpg"></image>
+<text>
+2、过度熬夜
+过度熬夜会形成过度劳累，就会导致血压升高、心肌缺血。引发心绞痛、心律失常、心梗、脑梗等。</text>
+<image class="p9" src="https://5b0988e595225.cdn.sohucs.com/images/20190424/bb6a19f23ddb4a149a7cc7ca43d3be91.gif"></image>
+<text>
+3、过量喝酒
+酒精虽然使人兴奋，但也会因此让你血压升高、心跳加快，引发心绞痛、心梗等。
+还有可能在无意识的呕吐时，堵住气管窒息。</text>
+<image class="p8" src="https://tse3-mm.cn.bing.net/th/id/OIP.W-8oZ-tAJUnyLVgzyKdWGAHaEl?pid=Api&rs=1"></image>
+<text>
+4、过量饮食
+暴饮暴食会引发急性胰腺炎，急性坏死胰腺炎会诱发心脏骤停。</text>
+<image class="p7" src="https://www.yaozui.com/ckeditor_assets/images/2017/07/21/988c02aff0455c550c77eaec8047a786.gif"></image>
+<text>
+5、过量运动
+剧烈运动绝不适合所有人，原先心脏有隐患的人，例如先天性心肌病，平时看不出来，一剧烈运动就容易出事。</text>
+<image class="p6" src="https://pimg.39.net/PictureLib/A/f76/20160721/org_736111.jpg"></image>
+<text>6、过度情绪激动
+人们在情绪激动时，心脏承受的风险最大。情绪会使血压升高，交感神经兴奋。引发心梗、心律失常等一系列心脏问题。</text>
+<image class="p5" src="https://tse4-mm.cn.bing.net/th/id/OIP.sJ1lp5pYMZqI3KSIEnVJBAHaET?pid=Api&rs=1"></image>
+<text>7、坐着太久
+久坐会引发静脉的血回流不畅，形成血栓。</text>
+<image class="p4" src="https://n.sinaimg.cn/translate/750/w480h270/20180319/hDIn-fysmcyz9054367.gif"></image>
+<text>
+8、天气过热
+气温高️、湿度大。人体的代谢率明显增加，心肌耗氧量上升。于是心脏负担加重，心绞痛、心梗就会找上门。</text>
+<image class="p3" src="https://img.mp.itc.cn/upload/20170717/95e8ca2b06114975815229c608ab4861.jpg"></image>
+<text>9、天气过冷
+寒冷会使人血压升高。由此引发心肌缺血，继而出现心绞痛、心梗、脑梗、脑出血的几率也陡然上升。</text>
+<image class="p2" src="https://tse4-mm.cn.bing.net/th/id/OIP.A8v-_1VAfVqBROvgRc6IJAAAAA?pid=Api&rs=1"></image>
+<text>10、上厕所过度用力
+大便干，解决时屏气用力过度，会导致血压骤然升高，心脏耗氧量增加，诱发心梗。</text>
+<image class="p1" src="https://img.thehour.cn/2020/01/12/15787953522052426050555823090372.gif?w=497&h=278"></image>

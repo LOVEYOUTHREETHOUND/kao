@@ -1,0 +1,4 @@
+/* pages/demo06/demo06.wxss */
+.p{
+  width: 100%;
+}

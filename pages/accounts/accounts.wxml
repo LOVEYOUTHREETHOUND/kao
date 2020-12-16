@@ -1,0 +1,8 @@
+
+<button class="tel-main" bindtap="makePhoneCall">一键呼救{{shopNumber}}</button>
+<button class="a" size="default" type="primary" bindtap="tiaozhuan">进入志愿者资格测试</button>
+<button class="b" size="default" type="primary" open-type="contact">联系客服了解更多</button>
+<button class="c" size="default" type="primary" open-type="share">将该小程序分享给朋友</button>
+<button class="d" size="default" type="primary" open-type="feedback">意见反馈</button>
+
+

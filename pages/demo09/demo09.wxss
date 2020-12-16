@@ -1,0 +1,12 @@
+/* pages/demo09/demo09.wxss */
+.p1{
+  width: 100%;
+}.p2{
+  width: 100%;
+}.p3{
+  width: 100%;
+}.p4{
+  width: 100%;
+}.p5{
+  width: 100%;
+}

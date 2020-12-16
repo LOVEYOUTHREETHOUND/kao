@@ -1,0 +1,4 @@
+/* pages/demo05/demo05.wxss */
+.p1{
+  width: 100%;
+}

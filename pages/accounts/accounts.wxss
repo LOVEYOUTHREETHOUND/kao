@@ -1,0 +1,23 @@
+/* pages/accounts/accounts.wxss */
+.tel-main{
+  color: rgb(236, 12, 12);
+  background-color: rgb(102, 95, 95);
+  width: 50%;
+  height:120%;
+}
+.a{
+  color: rgb(236, 12, 12);
+  background-color: rgb(102, 95, 95);
+  width: 80%;
+}
+.b{
+  width:80%;
+}
+.c{
+  width:80%;
+}
+.d{
+  width:80%;
+}
+
+
